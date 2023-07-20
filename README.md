@@ -1,7 +1,7 @@
 # TV-Show-Cards-App
 <h3>visit: https://aokmen.github.io/TV-Show-Cards-App/ </h3>
 <img alt="alt_text" src="./img/tv-show.gif"/>
----
+
 # Description:
 
 ## In this project, a TV show list is displayed and filtered based on user input. Here is a summary of what has been done:
